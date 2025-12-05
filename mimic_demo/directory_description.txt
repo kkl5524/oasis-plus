@@ -1,4 +1,0 @@
-### Purpose
-
-  This directory is the resulting demo database for MIMIC-III, available for download
-  here: https://physionet.org/content/mimiciii-demo/1.4/
